@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ThirdProject</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="go">GO</string>
+    <string name="new_user_sing_up">New User? Sing Up</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="hello_there_nwelcome_back">Hello there \nWelcome back</string>
+</resources>
